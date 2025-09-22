@@ -7,11 +7,15 @@ Features implemented so far:
 2. Authentication against a predefined user list.
 3. Limited login attempts (3 tries)
 4. Print access granted/denied messages.
+5. Added menu with options to see profile, change password or log out.
+6. Ability to see profile, change password and log out.
 
 Skills demonstrated:
     - User input handling
-    - Data structures(dictionary)
-    - Control flow(conditional statements, looping)
-    - Error handling(user feedback)
+    - Data structures (dictionary)
+    - Control flow (conditional statements, looping)
+    - Error handling (user feedback)
     - Basic security logic
     - Program structure
+    - String formatting
+    - Debugging & iterative improvement
